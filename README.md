@@ -58,6 +58,7 @@ $ rostopic echo /fivetimes
 端末1と端末2と端末3でコマンドを実行することで、端末1の情報を受け取って、端末3に1秒ごとにcount.pyを5倍した数字が表示されます。  
 
 # 動画
+https://youtu.be/JmPlVPML0CE
 youtubeに動画を上げてあります  
 
 # ライセンス
